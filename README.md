@@ -1,9 +1,5 @@
-***Важно***❗️❗️❗️ Создано исключительно в развлекательных целях, чтобы показать, что этот сайт делается программистом очень быстро, и это не самый лучший способ защиты.
+### https://andreynnt.github.io?screen=1
 
-### https://andreynnt.github.io?screen=city&name=Krasnodar
-
-### https://andreynnt.github.io?screen=city&name=Miami
+### https://andreynnt.github.io?screen=2
 
 #### https://andreynnt.github.io/
-
-https://immune-mos-ru.herokuapp.com/
